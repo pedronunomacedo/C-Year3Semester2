@@ -1,0 +1,6 @@
+[submodule "Practical/comp2023-tutorial"]
+	path = Practical/comp2023-tutorial
+	url = https://git.fe.up.pt/compilers2023/comp2023-tutorial.git
+[submodule "Projects/1st_project"]
+	path = Projects/1st_project
+	url = https://git.fe.up.pt/compilers2023/comp2023-4c.git
