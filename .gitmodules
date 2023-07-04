@@ -10,3 +10,6 @@
 [submodule "Projects/tutorial"]
 	path = Projects/tutorial
 	url = https://git.fe.up.pt/compilers2023/comp2023-tutorial.git
+[submodule "Project"]
+	path = Project
+	url = git@github.com:pedronunomacedo/C-Projects.git
