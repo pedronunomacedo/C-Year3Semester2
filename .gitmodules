@@ -4,3 +4,9 @@
 [submodule "Projects/1st_project"]
 	path = Projects/1st_project
 	url = https://git.fe.up.pt/compilers2023/comp2023-4c.git
+[submodule "Projects/1st_Project"]
+	path = Projects/1st_Project
+	url = https://git.fe.up.pt/compilers2023/comp2023-4c.git
+[submodule "Projects/tutorial"]
+	path = Projects/tutorial
+	url = https://git.fe.up.pt/compilers2023/comp2023-tutorial.git
